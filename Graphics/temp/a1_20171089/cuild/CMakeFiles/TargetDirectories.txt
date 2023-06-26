@@ -1,0 +1,3 @@
+/home/masterg/Documents/4th Semester/Graphics/temp/a1_20171089/cuild/CMakeFiles/rebuild_cache.dir
+/home/masterg/Documents/4th Semester/Graphics/temp/a1_20171089/cuild/CMakeFiles/graphics_asgn1.dir
+/home/masterg/Documents/4th Semester/Graphics/temp/a1_20171089/cuild/CMakeFiles/edit_cache.dir

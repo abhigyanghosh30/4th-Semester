@@ -1,0 +1,3 @@
+/home/masterg/Documents/4th Semester/Graphics/Assignment1/build/CMakeFiles/rebuild_cache.dir
+/home/masterg/Documents/4th Semester/Graphics/Assignment1/build/CMakeFiles/graphics_asgn1.dir
+/home/masterg/Documents/4th Semester/Graphics/Assignment1/build/CMakeFiles/edit_cache.dir
